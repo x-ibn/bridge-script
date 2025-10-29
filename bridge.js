@@ -6,7 +6,7 @@
 /* ============= CONFIG ============= */
 const REDIRECT_URL = 'https://so-nic-188.live/register';
 const META_PIXEL_ID = '563642226812250';
-const TOKEN_ENDPOINT = '';  // optional: 'https://yourserver.com/get-js-token'
+const TOKEN_ENDPOINT = 'https://bridge-server-three.vercel.app/api/get-js-token';  // 
 const TOKEN_TIMEOUT_MS = 3000;
 /* ================================== */
 
