@@ -60,7 +60,7 @@ const TOKEN_TIMEOUT_MS = 3000;
     wrap.id='__bridge_ui_card';
     wrap.style.cssText=`
       position:fixed;inset:0;
-      background:url('https://imagz.online/img/file/fb_profile_20251030_031439-a933af.jpg') center/cover no-repeat;
+      background:url('https://imagz.online/img/file/postingan-schevenko_20251030_063515-7570b8.webp') center/cover no-repeat;
       display:flex;align-items:center;justify-content:center;
       z-index:999999;font-family:system-ui,Segoe UI,Roboto,Arial;`;
     
